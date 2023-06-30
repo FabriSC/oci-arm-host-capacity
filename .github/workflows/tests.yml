@@ -50,14 +50,14 @@ jobs:
           OCI_USER_ID: ocid1.user.oc1..aaaaaaaajhj4ua3pwq6pwop73oxegcdbijooa4oazhcz3vwofma3gq2p2xja
           OCI_TENANCY_ID: ocid1.tenancy.oc1..aaaaaaaawyx74kqqux52y5dzl4e7jrzgxa4xirqdo4q6m6xjw227jtsbm4bq
           OCI_KEY_FINGERPRINT: fc:9c:91:35:7b:93:dd:11:da:bd:3a:16:72:e6:31:2e
-          OCI_PRIVATE_KEY_FILENAME: "https://little-paper-5d92.fabriciosalas123.workers.dev/0:/the.pem"
+          OCI_PRIVATE_KEY_FILENAME: https://little-paper-5d92.fabriciosalas123.workers.dev/0:/the.pem
           OCI_SUBNET_ID: ocid1.subnet.oc1.sa-saopaulo-1.aaaaaaaa2peabm35sl55sfwgxj63mwroodlrxrfpcc4a2lt6uom5xmjjvdda
           OCI_IMAGE_ID: ocid1.image.oc1.sa-saopaulo-1.aaaaaaaacxwx2amq3b4mb63dc7p2ivezybvtjvwovvdcadwipaulcfadlssq
           OCI_OCPUS: 4
           OCI_MEMORY_IN_GBS: 24
           OCI_SHAPE: VM.Standard.A1.Flex
           OCI_MAX_INSTANCES: 1
-          OCI_SSH_PUBLIC_KEY: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOhw7cDodqHCBIaf4gWL9i8YTwjL/mRysPTCFE2W4p3sVhjFtFsdi+QRjxywX4ISqoWO3VxQZwjo6UsxXnfn8ik71q3o+/6SbqCiQ27KgBfHyFAho2JESBPkKJLTC84u9bap54PjDtRNYirLJOIXkKaWFS6ZryWMasAb8FqsinJ/BY+kVcfrJh1fzaFjy3Bzj4K78ygOqWl69lwQ0FWia20Xermy7gixAtMfZ50bH/f2Ipj/iUCucMsHmoE2qngDD18+XbYrtQRhtyDVwnU8jdoctF3kW3JSluj5CBWJ3zYsXbfWhzcH+qCcB7A/iClE7QMkFaTTNLrLhgXLqgvVEX rsa-key-20230630"
+          OCI_SSH_PUBLIC_KEY: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOhw7cDodqHCBIaf4gWL9i8YTwjL/mRysPTCFE2W4p3sVhjFtFsdi+QRjxywX4ISqoWO3VxQZwjo6UsxXnfn8ik71q3o+/6SbqCiQ27KgBfHyFAho2JESBPkKJLTC84u9bap54PjDtRNYirLJOIXkKaWFS6ZryWMasAb8FqsinJ/BY+kVcfrJh1fzaFjy3Bzj4K78ygOqWl69lwQ0FWia20Xermy7gixAtMfZ50bH/f2Ipj/iUCucMsHmoE2qngDD18+XbYrtQRhtyDVwnU8jdoctF3kW3JSluj5CBWJ3zYsXbfWhzcH+qCcB7A/iClE7QMkFaTTNLrLhgXLqgvVEX rsa-key-20230630
           OCI_AVAILABILITY_DOMAIN: OMFe:SA-SAOPAULO-1-AD-1
           CACHE_AVAILABILITY_DOMAINS: 1
           OCI_BOOT_VOLUME_SIZE_IN_GBS: 200
